@@ -12,7 +12,7 @@ export default class Calculator extends React.Component{
             <div>
              <TemparatureInput scale='c'/>  
              <TemparatureInput scale='f'/>  
-             <BoilingVerdict celsius={parseFloat(temparature)}/>
+             
 
 
             </div>
